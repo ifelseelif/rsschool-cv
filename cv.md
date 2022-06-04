@@ -1,4 +1,5 @@
 # Artem Kolokolov
+<hr/>
 
 # Contacts:
 
@@ -45,3 +46,5 @@ public ReportBuilder(IFileSystemHelper fileSystemHelper, IOptions<Configuration.
 #### software engineering
 #### 2018-2022
 
+# Language
+English level - B2
