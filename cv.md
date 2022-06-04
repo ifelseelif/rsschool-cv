@@ -32,3 +32,9 @@ public ReportBuilder(IFileSystemHelper fileSystemHelper, IOptions<Configuration.
     _configuration = configuration.Value;
 }
 ```
+
+# Work Experience
+
+- ### Epam January 2021 - May 2021
+- ### ATI.SU November 2021 - January 2022
+- ### Tinkoff January 2022 - April 2022
