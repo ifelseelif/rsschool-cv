@@ -18,3 +18,17 @@ My main priorities are to keep up with the times, so I love learning new things.
 - JS
 - PostgreSQL
 - Git
+
+# Code example
+
+```
+public ReportBuilder(IFileSystemHelper fileSystemHelper, IOptions<Configuration.Configuration> configuration, 
+    IGitHelper gitHelper, IInstrumentProvider instrumentProvider, ILogger<ReportBuilder> logger)
+{
+    _fileSystemHelper = fileSystemHelper;
+    _gitHelper = gitHelper;
+    _instrumentProvider = instrumentProvider;
+    _logger = logger;
+    _configuration = configuration.Value;
+}
+```
