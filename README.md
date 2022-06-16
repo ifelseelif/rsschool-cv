@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ifelseelif.github.io/rsschool-cv/
